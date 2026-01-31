@@ -1,0 +1,27 @@
+Problem Statement: Customer Transaction Fraud Analysis
+
+
+ Banks process thousands of customer transactions every day.
+ Most transactions are genuine, but some can be fraudulent,
+ causing financial loss to the bank and its customers.
+ Detecting these suspicious transactions early is
+ important to reduce risk and protect customers.
+
+
+In this project, a dataset of customer transactions is provided.
+Each transaction includes information such as amount, type,
+customer details, and whether it was fraudulent or not.
+
+As a data analyst, the task is to:
+
+Explore and understand the transaction dataset
+
+Identify patterns in normal and fraudulent transactions
+
+Build a model to predict the likelihood of fraud for any transaction
+
+Create a simple function that takes transaction details as
+   input and outputs a fraud risk score or prediction
+
+This project demonstrates how data analysis and basic machine
+ learning can be applied in banking to detect fraud and support risk management decisions.

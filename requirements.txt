@@ -1,0 +1,42 @@
+## Project Requirements
+
+1. **Data Cleaning & Preparation**
+
+   * Handle missing values
+   * Remove duplicates
+   * Keep relevant numeric features for analysis
+
+2. **Exploratory Data Analysis (EDA)**
+
+   * Count and visualize fraudulent vs normal transactions
+   * Look for trends and patterns in the data
+
+3. **Modeling**
+
+   * Split the dataset into training and testing sets
+   * Use a classification model (e.g., Logistic Regression or Decision Tree)
+   * Scale features if required
+
+4. **Evaluation**
+
+   * Evaluate the model using accuracy, confusion matrix, and classification report
+
+5. **Prediction Function**
+
+   * Create a function `predict_fraud(transaction_details)`
+   * Input: transaction features
+   * Output: probability of fraud and predicted class (1 = Fraud, 0 = Normal)
+
+---
+
+## Technology Requirements
+
+* **Python** (version 3.7 or higher)
+* Libraries:
+
+  * `pandas`
+  * `numpy`
+  * `matplotlib` or `seaborn`
+  * `scikit-learn`
+
+Optional: Jupyter Notebook for interactive exploration.
