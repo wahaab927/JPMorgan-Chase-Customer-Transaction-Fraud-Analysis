@@ -325,5 +325,4 @@ Developed by ABDUL WAHAAB to demonstrate skills in:
 * Machine Learning
 * Fraud Detection
 * Financial Risk Analytics
-**4) Make this README more visually attractive**
 ```
